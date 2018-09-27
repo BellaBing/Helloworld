@@ -4,12 +4,14 @@ public class student {
 		String name;
 		int id;
 		
-		public void student() {}
-		public void student(int age;String )
+		public void student(int age,String s )
+		{
+			
+		}
 		
 		
 		
-}
+
 		public int getAge() {
 			return age;
 		}
